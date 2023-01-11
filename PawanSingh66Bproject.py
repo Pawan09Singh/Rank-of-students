@@ -1,4 +1,4 @@
-# #Pawan Singh B66
+# # Pawan Singh
 # def rank_of_student(name, mark, updates, n):
 
 #     #list of the student
